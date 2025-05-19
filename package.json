@@ -1,0 +1,12 @@
+{
+    "scripts": {
+        "charts": "bun python main.py",
+        "top": "bun run top.ts"
+    },
+    "dependencies": {
+        "@google/genai": "^0.10.0",
+        "@types/bun": "^1.2.11",
+        "axios": "^1.9.0",
+        "viem": "^2.28.0"
+    }
+}

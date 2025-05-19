@@ -1,0 +1,18 @@
+{
+    "contract": {
+        "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "count": "158664705"
+    },
+    "sender": {
+        "address": "0x46340b20830761efd32832A74d7169B29FEB9758",
+        "count": "4492885"
+    },
+    "token": {
+        "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "count": "158664705"
+    },
+    "swap": {
+        "address": "0x4e68Ccd3E89f51C3074ca5072bbAC773960dFa36",
+        "count": "40153959"
+    }
+}
